@@ -1,0 +1,8 @@
+# Current ignores
+*.layout
+*.depend
+*.png
+*.lnk
+
+bin/
+obj/
